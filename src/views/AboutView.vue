@@ -1,6 +1,8 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+
+    <div>v1.1 测试内容</div>
   </div>
 </template>
 
