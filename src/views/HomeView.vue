@@ -5,5 +5,6 @@ import TheWelcome from "../components/TheWelcome.vue";
 <template>
   <main>
     <TheWelcome />
-  </main>
+    <div>v1.2 内容测试</div>
+  </main>       
 </template>
